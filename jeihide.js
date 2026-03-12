@@ -1,43 +1,5 @@
 RecipeViewerEvents.removeEntries('item', SLteam => {
      SLteam.remove([
-   // justdiret
-        'justdirethings:ferricore_hoe',
-        'justdirethings:blazegold_hoe',
-        'justdirethings:celestigem_hoe',
-        'justdirethings:eclipsealloy_hoe',
-        'justdirethings:creaturecatcher',
-        'justdirethings:upgrade_flight',
-        'justdirethings:paradoxmachine',
-
-    // industrialization
-        'extended_industrialization:nano_quantum_saber', 
-        'extended_industrialization:nano_quantum_helmet', 
-        'extended_industrialization:nano_quantum_boots' ,
-        'extended_industrialization:nano_quantum_leggings', 
-        'extended_industrialization:nano_quantum_chestplate', 
-        'modern_industrialization:quantum_chestplate' ,
-        'modern_industrialization:quantum_helmet' ,
-        'modern_industrialization:quantum_boots' ,
-        'modern_industrialization:quantum_leggings', 
-        'modern_industrialization:quantum_sword',    
-    // mob_grinding
-        'mob_grinding_utils:saw',
-        'mob_grinding_utils:spikes' ,
-        'mob_grinding_utils:entity_spawner',
-    // AE2
-        'extendedae:circuit_cutter',
-    // Create
-        'create:schematicannon',
-        'createaddition:electric_motor',
-        'createaddition:alternator',
-    // Mekanism
-        'mekanismgenerators:gas_burning_generator',
-        'mekmm:large_gas_burning_generator',
-        'mekanism:mekasuit_helmet',
-        'mekanism:mekasuit_bodyarmor',
-        'mekanism:mekasuit_pants',
-        'mekanism:mekasuit_boots',
-    // silent
         'silentgear:rod_blueprint',
         'silentgear:tip_blueprint',
         'silentgear:coating_blueprint',
@@ -89,47 +51,6 @@ RecipeViewerEvents.removeEntries('item', SLteam => {
         'silentgear:crude_mixer',
         'silentgear:super_mixer',
         'silentgear:metal_press',
-    //geores
-        'geore:allthemodium_block',
-        'geore:allthemodium_tinted_glass',
-        'geore:allthemodium_spyglass',
-        'geore:vibranium_block',       
-        'geore:vibranium_tinted_glass',
-        'geore:vibranium_spyglass',
-        'geore:unobtainium_block',
-        'geore:unobtainium_tinted_glass',
-        'geore:unobtainium_spyglass',
-        'geore:budding_allthemodium',
-        'geore:budding_vibranium',       
-        'geore:budding_unobtainium',
-        'geore:allthemodium_shard',
-        'geore:vibranium_shard',
-        'geore:unobtainium_shard',
-        'geore:large_allthemodium_bud',
-        'geore:large_vibranium_bud',
-        'geore:large_unobtainium_bud',
-        'geore:medium_allthemodium_bud',
-        'geore:medium_vibranium_bud',
-        'geore:medium_unobtainium_bud',
-        'geore:small_allthemodium_bud',
-        'geore:small_vibranium_bud',
-        'geore:small_unobtainium_bud',
-        'geore:allthemodium_cluster',
-        'geore:vibranium_cluster',
-        'geore:unobtainium_cluster',
-    //easy_villagers
-        'easy_villagers:iron_farm',
-    //industrialforegoing
-        'industrialforegoing:infinity_nuke',
-        'mifa:speed_addon_8',
-        'mifa:speed_addon_7',
-        'mifa:speed_addon_6',
-        'mifa:processing_addon_8',
-        'mifa:processing_addon_7',
-        'mifa:processing_addon_6',
-        'mifa:efficiency_addon_8',
-        'mifa:efficiency_addon_7',
-        'mifa:efficiency_addon_6',
-
     ]);
 });
+
